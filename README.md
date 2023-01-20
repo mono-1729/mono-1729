@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/mono-1729/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mono-1729&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/mono-1729/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mono-1729" />
+</a>
